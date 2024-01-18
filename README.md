@@ -1,5 +1,8 @@
 # odin-recipes
 First Odin-Project project
 
-<!-- Set up your README.md file and write a brief introduction describing what the current project is and what skills you will have demonstrated once you have completed it. (You can also do this as a self-reflection at the end of the project, which is a good way to review what you have learned.)
--->
+This project required me to build a basic recipe website with all the knowledge I have aquired from TOP so far. To complete the project I have learnt and used the following:
+- HTML (elements, tags, boilerplate, text, lists, links & images)
+- Git & GitHub
+- VSCode
+- CLI
